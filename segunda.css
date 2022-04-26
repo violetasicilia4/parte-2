@@ -1,0 +1,74 @@
+/* CSS styles */
+body {
+  background-color:ac9386;}
+
+h1 {
+ color:#094BCE;
+ display:block;
+ font-size:70px;
+ font-weight:normal;
+ letter-spacing:-3.5px;
+ line-height:2em;
+  text-align: left;}
+.foto
+{ border-radius: 50%;
+}
+
+h2 {
+ color:#094BCE;
+ display:block;
+ font-size:28px;
+ font-weight:normal;
+ letter-spacing:-2px;
+ line-height:0em;}
+  
+p {
+ font-family:Georgia,serif;
+ color:#666666;
+ font-size:13px;
+ line-height:1em;
+ margin:0 0 0 60px;
+  text-align: left;}
+div.experiencia
+{border: 1px solid black;
+  padding: 10px;
+  background-color:    #f5f2ef
+}
+div.contacto
+{border: 1px solid black;
+  padding: 10px;
+  background-color:  #d0bfb4}
+
+div.educacion
+{border: 1px solid black;
+  padding: 10px;
+  background-color:   #e2d7d0
+
+}
+div.programas
+{border: 1px solid black;
+  padding: 10px;
+  background-color:  #d0bfb4
+
+;}
+
+div.Aptitudes
+{
+   border: 1px solid black;
+  padding: 10px;
+  background-color: #d6c9c2
+;}
+div.contactenos
+{
+   border: 1px solid black;
+  padding: 4px 20px 30px 10px;
+  background-color: #e0d7d1
+;
+}
+
+div.socialmedia
+
+{
+  border: 1px solid black;
+  padding: 10px;
+  background-color:#B6C0D6;}
